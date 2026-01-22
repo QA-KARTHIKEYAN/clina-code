@@ -1,6 +1,2 @@
-/base/
-/factory/
-/hooks/
-/locators/
-/runner/
-/stepdefs/
+/UserCredentails/
+/database/
